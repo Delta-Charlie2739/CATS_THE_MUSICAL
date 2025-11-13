@@ -56,3 +56,5 @@ This class provides methods to access and modify these attributes.
 The `Collar` class includes a constructor to initialize its attributes:
 ```java
 public Collar(String color, String size)
+
+<img width="2464" height="2644" alt="image" src="https://github.com/user-attachments/assets/613dfa0f-9bdf-48d0-847a-a223c96824da" />
